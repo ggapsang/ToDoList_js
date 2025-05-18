@@ -104,16 +104,6 @@
   height: 32px;
   top: 257px;
   left: 1099px;
-  background-image: url(./img/image.png);
-  background-size: 100% 100%;
-}
-
-.desktop .group {
-  position: relative;
-  width: 28px;
-  height: 25px;
-  top: 6px;
-  left: 3px;
-  background-image: url(./img/group.png);
+  background-image: url(./img/Format_list_bulleted_add.png);
   background-size: 100% 100%;
 }
